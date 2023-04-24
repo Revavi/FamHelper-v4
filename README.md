@@ -25,7 +25,7 @@ _Работает только с помощью **moonloader**_.
  - **[rkeys](https://www.blast.hk/attachments/22515/)**
  - **[samp.lua](https://github.com/THE-FYP/SAMP.Lua/releases/download/v2.3.0/samp-lua-v2.3.0.zip)**
  - **[fAwesome6](https://cdn.discordapp.com/attachments/1038436016954036254/1038436037279617024/fAwesome6.lua)**
- - **[imgui addons](https://www.blast.hk/attachments/22563/)** _есть шанс, что будет вырезано_
+ - **[imgui addons](https://www.blast.hk/attachments/22563/)**
 
 Все библиотеки, кроме **[requests](https://www.blast.hk/attachments/11724/)** скрипт устанавливает сам.
 
@@ -81,7 +81,7 @@ _Работает только с помощью **moonloader**_.
   - Изменена внутреняя структура скрипта.
   - Добавлена возможность изменения минимального уровня игрока для его приглашения в семью.
   
-**V 3.5.0 >>**
+**V 3.4.0 >>**
   - Окна можно закрыт на ESC.
   - Система авто-оплаты налогов семейной квартиры(Новый раздел).
 
